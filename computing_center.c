@@ -5,7 +5,7 @@ int *fetchData() {
   int *data;
   // fetch data...
   return data;
-    // i don't want to this 
+    // i don't want to this homework 
 }
 
 void processData(int data[]) {
@@ -23,3 +23,4 @@ int main () {
   showData(data);
   return 0;
 }
+//132
